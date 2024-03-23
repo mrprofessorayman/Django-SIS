@@ -1,4 +1,4 @@
-# Django-SIS
+# Building a Django Website with Python
 
 The steps in this page will work for you if:
 - You already completed [step1](https://github.com/mrprofessorayman/Django-SIS/tree/step1) in some machine and you want to continue working on a new machine.
