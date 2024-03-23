@@ -2,8 +2,7 @@
 
 ## Initial Setup
 
-- If you already completed these steps and you want to continue working on a new machine, check out this branch [link TBD]
-- If you already completed these steps and you want to continue working on the same machine, go this branch [link TBD]
+- If you already completed these steps and you want to continue working on the project, go to the master branch [here](https://github.com/mrprofessorayman/Django-SIS/tree/master).
 
 # Software and Tools
 
